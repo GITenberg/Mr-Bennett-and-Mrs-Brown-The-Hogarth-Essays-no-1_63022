@@ -1,5 +1,8 @@
 _repo: Mr-Bennett-and-Mrs-Brown-The-Hogarth-Essays-no-1_63022
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63022-h/images/bennett_cover.jpg
 creator:
   author:
     agent_name: Woolf, Virginia
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/89
     wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63022#Mr-Bennett-and-Mrs-Brown-The-Hogarth-Essays-no-1
 gutenberg_issued: '2020-08-23'
 gutenberg_type: Text
 identifiers:
